@@ -1,7 +1,7 @@
 import os from 'node:os'
 import fs from 'node:fs'
 import path from 'node:path'
-import sleep from './utils/sleep'
+import sleep from './utils/sleep.mjs'
 
 const BASE_URL = 'https://start.exactonline.nl/api/v1/'
 

@@ -10,7 +10,7 @@
       },
       "require": {
         "types": "./dist/cjs/types/index.d.ts",
-        "default": "./dist/cjs/index.js"
+        "default": "./dist/cjs/index.mjs"
       }
     }
   },
